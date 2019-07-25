@@ -17,7 +17,7 @@
 <input type="password" name="txtPass" placeholder="Contraseña"><br><br>
 <input type="submit" name="" value="INGRESAR"><br><br>
 <a href="">¿Haz olvidado tú Contraseña ?</a><br><br>
-<a href="">¿No tienes una cuenta?</a>
+<a href="">¿No tienes una Cuenta?</a>
 
   </form>
 </div>

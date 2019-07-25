@@ -134,11 +134,3 @@ nav ul li a {
 nav ul li:hover {
   background: #3ead47;
 }
-.contenido {
-  padding-top: 80px;
-}
-.wrapper {
-  width: 80%;
-  margin: auto;
-  overflow:hidden;
-}
